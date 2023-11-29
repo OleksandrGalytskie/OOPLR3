@@ -1,0 +1,64 @@
+D:\OOPLR2\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.exe
+D:\OOPLR2\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.deps.json
+D:\OOPLR2\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.runtimeconfig.json
+D:\OOPLR2\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.dll
+D:\OOPLR2\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.pdb
+D:\OOPLR2\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.Form1.resources
+D:\OOPLR2\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.csproj.GenerateResource.cache
+D:\OOPLR2\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPLR2\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.AssemblyInfoInputs.cache
+D:\OOPLR2\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.AssemblyInfo.cs
+D:\OOPLR2\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.csproj.CoreCompileInputs.cache
+D:\OOPLR2\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.dll
+D:\OOPLR2\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\refint\OOPLR3.dll
+D:\OOPLR2\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.pdb
+D:\OOPLR2\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.genruntimeconfig.cache
+D:\OOPLR2\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\ref\OOPLR3.dll
+D:\OOPLR3\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.exe
+D:\OOPLR3\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.deps.json
+D:\OOPLR3\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.runtimeconfig.json
+D:\OOPLR3\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.dll
+D:\OOPLR3\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.pdb
+D:\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.Form1.resources
+D:\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.csproj.GenerateResource.cache
+D:\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.AssemblyInfoInputs.cache
+D:\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.AssemblyInfo.cs
+D:\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.csproj.CoreCompileInputs.cache
+D:\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.dll
+D:\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\refint\OOPLR3.dll
+D:\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.pdb
+D:\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.genruntimeconfig.cache
+D:\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\ref\OOPLR3.dll
+D:\OOPLR3 – копія\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.exe
+D:\OOPLR3 – копія\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.deps.json
+D:\OOPLR3 – копія\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.runtimeconfig.json
+D:\OOPLR3 – копія\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.dll
+D:\OOPLR3 – копія\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.pdb
+D:\OOPLR3 – копія\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.Form1.resources
+D:\OOPLR3 – копія\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.csproj.GenerateResource.cache
+D:\OOPLR3 – копія\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPLR3 – копія\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.AssemblyInfoInputs.cache
+D:\OOPLR3 – копія\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.AssemblyInfo.cs
+D:\OOPLR3 – копія\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.csproj.CoreCompileInputs.cache
+D:\OOPLR3 – копія\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.dll
+D:\OOPLR3 – копія\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\refint\OOPLR3.dll
+D:\OOPLR3 – копія\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.pdb
+D:\OOPLR3 – копія\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.genruntimeconfig.cache
+D:\OOPLR3 – копія\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\ref\OOPLR3.dll
+C:\Users\Олександр\Desktop\OOPLR3\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.exe
+C:\Users\Олександр\Desktop\OOPLR3\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.deps.json
+C:\Users\Олександр\Desktop\OOPLR3\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.runtimeconfig.json
+C:\Users\Олександр\Desktop\OOPLR3\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.dll
+C:\Users\Олександр\Desktop\OOPLR3\OOPLR3\OOPLR3\bin\Debug\net6.0-windows\OOPLR3.pdb
+C:\Users\Олександр\Desktop\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.Form1.resources
+C:\Users\Олександр\Desktop\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.csproj.GenerateResource.cache
+C:\Users\Олександр\Desktop\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олександр\Desktop\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.AssemblyInfoInputs.cache
+C:\Users\Олександр\Desktop\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.AssemblyInfo.cs
+C:\Users\Олександр\Desktop\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.csproj.CoreCompileInputs.cache
+C:\Users\Олександр\Desktop\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.dll
+C:\Users\Олександр\Desktop\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\refint\OOPLR3.dll
+C:\Users\Олександр\Desktop\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.pdb
+C:\Users\Олександр\Desktop\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\OOPLR3.genruntimeconfig.cache
+C:\Users\Олександр\Desktop\OOPLR3\OOPLR3\OOPLR3\obj\Debug\net6.0-windows\ref\OOPLR3.dll
